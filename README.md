@@ -3,7 +3,7 @@
 
 
 
-- <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/course-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
+- <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-english/blob/main/none-community/course-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
 
 
 ## Connect with me
